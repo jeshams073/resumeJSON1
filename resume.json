@@ -1,0 +1,100 @@
+[{
+    "personalInfo": {
+      "name": "Jai Shams",
+      "address": "730 East 950 South Orem, Utah, 84097",
+      "email": "jaieshams073@gmail.com"
+    }
+  },
+
+  {
+    "summary": {
+      "name": "Summary",
+      "text": " Started perusing vocal performance at Texas Christian University on scholarship before switching majors to computer science. Moved up to Utah for various reasons and am continuing my education. I've had previous work experience in a leadership position.I've been working with and using computers daily for as long as I can remember. I'm motivated, willing, and have been told I'm a very fast learner."
+    }
+  },
+
+  {
+    "education": {
+      "name": "Education",
+      "school": "Utah Valley University",
+      "location": "Orem, Utah",
+      "major": "Computer Science",
+      "attendance": "Enrolled January 2018",
+      "educationDescription": "Looking to concentrate in either software engineering or cyber security."
+    }
+  },
+
+  {
+    "employmentHistory": {
+      "name": "Employment History",
+      "company": "Marco's Pizza",
+      "location": "Cedar Hills, UT",
+      "position": "Shift Leader",
+      "startDate": "March 2018",
+      "endDate": "June 2018",
+      "jobDescription": "Started as a driver, became a shift leader in a little over two months due to impressive performance. Now manage insiders and drivers in place of managers."
+    }
+  },
+
+  {
+    "hobbiesAndInterests": {
+      "name": "Hobbies And Interests",
+      "hobby": "Coding",
+      "interest": "3D Modeling"
+    }
+  },
+
+  {
+    "professionalSkills": {
+      "name": "Professional Skills",
+      "coding": {
+        "name": "Coding",
+        "rank": "Intermediate"
+      },
+      "modeling": {
+        "name": "3D Modeling",
+        "rank": "Beginner"
+      },
+      "singing": {
+        "name": "Singing",
+        "rank": "Advanced"
+      }
+    }
+  },
+
+  {
+    "languages": {
+      "name": "Languages",
+      "english": {
+        "name": "English",
+        "rank": "Native"
+      },
+      "spanish": {
+        "name": "Spanish",
+        "rank": "Conversational"
+      },
+      "korean": {
+        "name": "Korean",
+        "rank": "Beginner"
+      }
+    }
+  },
+
+  {
+    "references": {
+      "name": "References",
+      "joshua": {
+        "name": "Joshua Jones",
+        "org": "Utah Valley University",
+        "relation": "Lab Leader",
+        "contactInfo": "joshua.jones@uvu.edu"
+      },
+      "ringel": {
+        "name": "Marla Ringel",
+        "org": "Texas Christian University",
+        "relation": "Mentor/Instructor",
+        "contactInfo": "m.ringel@tcu.edu"
+      }
+    }
+  }
+];
